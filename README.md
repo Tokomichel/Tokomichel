@@ -7,7 +7,7 @@
 ##### *I'm also available on telegram* [contact me](https://t.me/TokoMichel)
 ####
 <h2 align='center'> My programming skills 👍🏾🧑🏾‍💻</h2>
-####
+
 ```python
 def print_skills():
     my_skills = [
