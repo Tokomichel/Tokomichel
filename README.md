@@ -1,4 +1,4 @@
-## Toko Michel
+<h2 align='center'> 😎 Toko Michel 😎</h2>
 
 - **Nom:**  Toko Wouendeu MIchel
 - **Ville de residence:**  Douala
@@ -6,7 +6,7 @@
 
 ##### *I'm also available on telegram* [contact me](https://t.me/TokoMichel)
 ####
-### My programming skills
+<h2 align='center'> My programming skills 👍🏾🧑🏾‍💻</h2>
 ####
 ```python
 def print_skills():
