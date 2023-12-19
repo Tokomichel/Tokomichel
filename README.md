@@ -1,6 +1,6 @@
 <h2 align='center'> 😎 Toko Michel 😎</h2>
 
-- **Nom:**  Toko Wouendeu MIchel
+- **Nom:**  Toko Wouendeu Michel
 - **Ville de residence:**  Douala
 - **Email:** *tokowouendeu@gmail.com*
 
