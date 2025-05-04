@@ -14,7 +14,9 @@ def print_skills():
         'python',
         'django',
         'telegram bot creation',
-        'flutter developper'
+        'flutter developper',
+        'Java - spring boot'
+        'Devops'
     ]
 
     for elt in my_skills:
