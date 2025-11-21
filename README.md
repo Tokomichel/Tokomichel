@@ -25,18 +25,52 @@ def print_skills():
 
 <h2 align="center">My Courses</h2>
 
-### Master en management des solution digitales et data 2
+## 🎓 Parcours scolaire
 
-Actuellement j'y apprend les fondamentaux du monde de la data ainsi que ces outils
+---
 
-### Master en management des solutions digitales et data 1
+### 🧠 Master 2 — *Management des Solutions Digitales & Data*  
+**📅 Actuellement en cours**  
+> Approfondissement du monde de la Data  
+> - 🛠️ Outils d’analyse & visualisation  
+> - 🧩 Architecture & gouvernance de la donnée  
+> - 🤖 Introduction à l’IA & data pipelines  
+> - 📊 Bonnes pratiques de manipulation des données
 
-J'y ai appris les bonnes pratiques git et devops
+---
 
-### Conception des systemes logiiel et web
+### 🚀 Master 1 — *Management des Solutions Digitales & Data*  
+**Compétences développées :**  
+- 🌀 Git — branches, workflows, pull requests  
+- ⚙️ DevOps — CI/CD, automatisation, pipelines  
+- 🧪 Tests, intégration continue, déploiements propres  
+- 🔐 Sécurisation des environnements
 
-Ou j'ai appris des notions plus avancées du developpement
+---
 
-### BTS: programmation application mobile
+### 💻 Licence — *Conception des Systèmes Logiciels & Web*  
+**Focus développement avancé :**  
+- 🧱 Architecture logicielle (MVC, REST, couches)  
+- 🧩 Design patterns  
+- 🌐 Développement web avancé  
+- 📝 Conception UML & modélisation
+
+---
+
+### 📱 BTS — *Programmation & Applications Mobiles*  
+**Bases solides en développement mobile :**  
+- 📲 Android / iOS  
+- 🎨 Notions UI/UX  
+- 🔧 Développement front & back  
+- 🛠️ Mise en production d’applications simples
+
+---
+
+## ✨ Résumé rapide  
+| Formation | Domaine | Compétences clés |
+|----------|---------|------------------|
+| 🧠 Master 2 | Data | Analyse, outils data, gouvernance |
+| 🚀 Master 1 | Data
+
 
 
